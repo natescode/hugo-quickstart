@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on natescode blog</title>
+        <link>https://natescode.com/posts/</link>
+        <description>Recent content in Posts on natescode blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>All Rights Reserved</copyright>
+        <lastBuildDate>Sun, 20 Nov 2022 09:03:20 -0800</lastBuildDate>
+        <atom:link href="https://natescode.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>My First Post</title>
+            <link>https://natescode.com/posts/2022/11/my-first-post/</link>
+            <pubDate>Sun, 20 Nov 2022 09:03:20 -0800</pubDate>
+            
+            <guid>https://natescode.com/posts/2022/11/my-first-post/</guid>
+            <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+            <content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>This is <strong>bold</strong> text, and this is <em>emphasized</em> text.</p>
+<p>Visit the <a href="https://gohugo.io">Hugo</a> website!</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
